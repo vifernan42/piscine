@@ -1,0 +1,5 @@
+Credentials cache: API:D7631283-354B-468F-92F4-B2DD30A4585D
+        Principal: vifernan@42MADRID.COM
+
+  Issued                Expires               Principal
+Feb 25 13:02:11 2021  Feb 25 23:02:11 2021  krbtgt/42MADRID.COM@42MADRID.COM
